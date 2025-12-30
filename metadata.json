@@ -1,0 +1,7 @@
+{
+  "name": "Speculum Caritatis",
+  "description": "El Espejo de la Caridad: Sistema Agéntico de Gnosis Mecánica para la reflexión objetiva de impacto, transparencia y propósito humanitario.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
